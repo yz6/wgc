@@ -29,19 +29,8 @@ module.exports = {
     assetsPublicPath: '/',
     proxyTable: {},
     context: [ //代理路径
-        '/api',
-        '/seat',
-        '/floor',
-        '/staff',
-        '/city',
-        '/building',
-        '/floor',
-        '/reservation',
-        '/staff',
-        '/repair',
-        '/approval',
-        '/analysis',
-        '/report'
+        '/api'
+        
         
     ],
     // CSS Sourcemaps off by default because relative paths are "buggy"

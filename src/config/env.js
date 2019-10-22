@@ -14,7 +14,8 @@ if (process.env.NODE_ENV == 'development') {
 	baseUrl = '';
     baseImgPath = '/img/';
 }else{
-	baseUrl = 'http://workstation.lovedabai.com/';
+ 
+	baseUrl = window.location.origin+'/';
     baseImgPath = '';
 }
 
