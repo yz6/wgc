@@ -279,7 +279,7 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="html" value="4" />
-          <entry key="js" value="32" />
+          <entry key="js" value="33" />
           <entry key="json" value="2" />
           <entry key="less" value="5" />
           <entry key="rnc" value="1" />
@@ -290,7 +290,7 @@
         <counts>
           <entry key="HTML" value="4" />
           <entry key="JSON" value="2" />
-          <entry key="JavaScript" value="32" />
+          <entry key="JavaScript" value="33" />
           <entry key="Less" value="5" />
           <entry key="RNG Compact" value="1" />
           <entry key="Vue.js" value="29" />
@@ -319,6 +319,18 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/router/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="381">
+              <caret line="52" column="23" selection-start-line="52" selection-start-column="22" selection-end-line="52" selection-end-column="23" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/headTop.vue">
           <provider selected="true" editor-type-id="text-editor">
@@ -331,20 +343,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="22">
               <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/page/service.vue">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1540">
-              <caret line="70" column="24" selection-start-line="70" selection-start-column="24" selection-end-line="70" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -515,10 +518,10 @@
         <option value="$PROJECT_DIR$/src/components/lang/zh.js" />
         <option value="$PROJECT_DIR$/src/components/footer.vue" />
         <option value="$PROJECT_DIR$/src/page/service.vue" />
-        <option value="$PROJECT_DIR$/src/router/index.js" />
         <option value="$PROJECT_DIR$/static/lang/en.js" />
         <option value="$PROJECT_DIR$/src/components/headTop.vue" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/router/index.js" />
       </list>
     </option>
   </component>
@@ -572,6 +575,22 @@
             <path>
               <item name="btx-capital" type="b2602c69:ProjectViewProjectNode" />
               <item name="btx-capital" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="btx-capital" type="b2602c69:ProjectViewProjectNode" />
+              <item name="btx-capital" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="btx-capital" type="b2602c69:ProjectViewProjectNode" />
+              <item name="btx-capital" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="router" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="btx-capital" type="b2602c69:ProjectViewProjectNode" />
+              <item name="btx-capital" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -865,12 +884,12 @@
       <workItem from="1565685246969" duration="4529000" />
       <workItem from="1567492757670" duration="4705000" />
       <workItem from="1567512283595" duration="1910000" />
-      <workItem from="1571742663607" duration="8000" />
+      <workItem from="1571742663607" duration="586000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2890557000" />
+    <option name="totallyTimeSpent" value="2891135000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -898,7 +917,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.038199183" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32605729" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="查找" order="11" weight="0.3286908" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -1152,16 +1171,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/router/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1144">
-          <caret line="54" column="11" selection-start-line="54" selection-start-column="11" selection-end-line="54" selection-end-column="11" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/page/service.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1540">
@@ -1228,6 +1237,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
           <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/router/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="52" column="23" selection-start-line="52" selection-start-column="22" selection-end-line="52" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

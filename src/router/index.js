@@ -50,7 +50,7 @@ const routes = [
 ]
 
 export default new Router({
-    mode: 'history',
+    // mode: 'history',
     // base:'/mobile',
 	routes,
 	strict: process.env.NODE_ENV !== 'production',
